@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7e50a0da-2b80-4f8a-baa4-c3dcd503cf6e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../file/report/backend-implementation-summary-report.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../debug-3c8de9.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../file/开发报错记录.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../file/测试样例.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../file/设计书.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../file/设计书.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy-ai-web/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy-ai-web/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy-ai-web/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy-ai-web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy-ai-web/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy-ai-web/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy-ai-web/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy-ai-web/postcss.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy-ai-web/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy-ai-web/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy-ai-web/src/api/gateway.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy-ai-web/src/api/http.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy-ai-web/src/api/session.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy-ai-web/src/api/user.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy-ai-web/src/assets/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy-ai-web/src/assets/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy-ai-web/src/assets/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy-ai-web/src/assets/tailwind.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy-ai-web/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy-ai-web/src/components/TheWelcome.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy-ai-web/src/components/WelcomeItem.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy-ai-web/src/components/chat/ChatComposer.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy-ai-web/src/components/chat/MessageBubble.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy-ai-web/src/components/chat/MessageList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy-ai-web/src/components/common/ConfirmModal.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy-ai-web/src/components/icons/IconCommunity.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy-ai-web/src/components/icons/IconDocumentation.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy-ai-web/src/components/icons/IconEcosystem.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy-ai-web/src/components/icons/IconSupport.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy-ai-web/src/components/icons/IconTooling.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy-ai-web/src/components/layout/AppSidebar.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy-ai-web/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy-ai-web/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy-ai-web/src/stores/auth.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy-ai-web/src/stores/chat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy-ai-web/src/views/ChatView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy-ai-web/src/views/LoginView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy-ai-web/src/views/ProfileView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy-ai-web/tailwind.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy-ai-web/vite.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../privacy-ai-project/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../privacy-ai-project/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../privacy-ai-project/src/main/java/com/sustech/privacyaiproject/ApiConnectionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../privacy-ai-project/src/main/java/com/sustech/privacyaiproject/PrivacyAiProjectApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../privacy-ai-project/src/main/java/com/sustech/privacyaiproject/PrivacyAiProjectApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../privacy-ai-project/src/main/java/com/sustech/privacyaiproject/common/exception/BizException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../privacy-ai-project/src/main/java/com/sustech/privacyaiproject/common/exception/BizException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../privacy-ai-project/src/main/java/com/sustech/privacyaiproject/common/exception/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../privacy-ai-project/src/main/java/com/sustech/privacyaiproject/common/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../privacy-ai-project/src/main/java/com/sustech/privacyaiproject/common/exception/HighRiskContentException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../privacy-ai-project/src/main/java/com/sustech/privacyaiproject/common/exception/HighRiskContentException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../privacy-ai-project/src/main/java/com/sustech/privacyaiproject/common/result/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/../privacy-ai-project/src/main/java/com/sustech/privacyaiproject/common/result/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../privacy-ai-project/src/main/java/com/sustech/privacyaiproject/common/util/ApiKeyUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../privacy-ai-project/src/main/java/com/sustech/privacyaiproject/common/util/ApiKeyUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../privacy-ai-project/src/main/java/com/sustech/privacyaiproject/common/util/PasswordUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../privacy-ai-project/src/main/java/com/sustech/privacyaiproject/controller/GatewayController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../privacy-ai-project/src/main/java/com/sustech/privacyaiproject/controller/SessionController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../privacy-ai-project/src/main/java/com/sustech/privacyaiproject/controller/StreamChatController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../privacy-ai-project/src/main/java/com/sustech/privacyaiproject/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../privacy-ai-project/src/main/java/com/sustech/privacyaiproject/domain/dto/GatewayChatRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../privacy-ai-project/src/main/java/com/sustech/privacyaiproject/domain/dto/MessageCreateRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../privacy-ai-project/src/main/java/com/sustech/privacyaiproject/domain/dto/ResetPasswordRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../privacy-ai-project/src/main/java/com/sustech/privacyaiproject/domain/dto/SessionCreateRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../privacy-ai-project/src/main/java/com/sustech/privacyaiproject/domain/dto/SessionUpdateRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../privacy-ai-project/src/main/java/com/sustech/privacyaiproject/domain/dto/UserLoginRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../privacy-ai-project/src/main/java/com/sustech/privacyaiproject/domain/dto/UserRegisterRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../privacy-ai-project/src/main/java/com/sustech/privacyaiproject/domain/dto/UserUpdateRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../privacy-ai-project/src/main/java/com/sustech/privacyaiproject/domain/entity/ChatMessageEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../privacy-ai-project/src/main/java/com/sustech/privacyaiproject/domain/entity/ChatSessionEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../privacy-ai-project/src/main/java/com/sustech/privacyaiproject/domain/entity/SanitizeResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/../privacy-ai-project/src/main/java/com/sustech/privacyaiproject/domain/entity/SanitizeResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../privacy-ai-project/src/main/java/com/sustech/privacyaiproject/domain/entity/UserEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../privacy-ai-project/src/main/java/com/sustech/privacyaiproject/domain/vo/ChatMessageVO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../privacy-ai-project/src/main/java/com/sustech/privacyaiproject/domain/vo/LoginVO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../privacy-ai-project/src/main/java/com/sustech/privacyaiproject/domain/vo/SessionListItemVO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../privacy-ai-project/src/main/java/com/sustech/privacyaiproject/domain/vo/UserProfileVO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../privacy-ai-project/src/main/java/com/sustech/privacyaiproject/infrastructure/ner/BertNerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../privacy-ai-project/src/main/java/com/sustech/privacyaiproject/infrastructure/ner/BertNerServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../privacy-ai-project/src/main/java/com/sustech/privacyaiproject/infrastructure/ner/file" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../privacy-ai-project/src/main/java/com/sustech/privacyaiproject/repository/ChatMessageRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../privacy-ai-project/src/main/java/com/sustech/privacyaiproject/repository/ChatSessionRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../privacy-ai-project/src/main/java/com/sustech/privacyaiproject/repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../privacy-ai-project/src/main/java/com/sustech/privacyaiproject/service/ChatService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../privacy-ai-project/src/main/java/com/sustech/privacyaiproject/service/MessageAssemblerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../privacy-ai-project/src/main/java/com/sustech/privacyaiproject/service/PrivacyPolicyEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../privacy-ai-project/src/main/java/com/sustech/privacyaiproject/service/PrivacyPolicyEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../privacy-ai-project/src/main/java/com/sustech/privacyaiproject/service/PrivacyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../privacy-ai-project/src/main/java/com/sustech/privacyaiproject/service/PrivacyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../privacy-ai-project/src/main/java/com/sustech/privacyaiproject/service/RoutingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../privacy-ai-project/src/main/java/com/sustech/privacyaiproject/service/RoutingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../privacy-ai-project/src/main/java/com/sustech/privacyaiproject/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../privacy-ai-project/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../privacy-ai-project/src/main/resources/application.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="3DP5FBtTS1HboeqT6DSRVBmTN4b" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "final-code",
+    "last_opened_file_path": "D:/Project/MYAI/MyAiProject/front",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e50a0da-2b80-4f8a-baa4-c3dcd503cf6e" name="Changes" comment="" />
+      <created>1778170757749</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1778170757749</updated>
+      <workItem from="1778170758783" duration="3705000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
